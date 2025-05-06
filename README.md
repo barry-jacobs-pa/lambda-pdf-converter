@@ -149,7 +149,7 @@ For security best practices, create an IAM user with only the minimum permission
    - Function Name: `pdf-to-jpg-converter` (or your chosen name)
    - Invocation Type: `RequestResponse`
 
-## 🧩 Alternative Approach: Lambda Layers
+## Alternative Approach: Lambda Layers
 
 While this project uses a Docker-based approach, another common method is to use Lambda Layers. Here's a brief overview:
 
